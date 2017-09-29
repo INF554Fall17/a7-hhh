@@ -22,11 +22,11 @@ __What to include in your project pitch?__
 
 ## Rubric
 
-| 	            | Data Wrangling	| Data Analysis	| Documentation |
-| ------------- | --------------- | ------------- | ------------- |
-| Sophisticated	|  |  |  |
-| Competent	    |  |  |  |
-| Needs work	  |  |  |  |
+| 	            | Presentation | Project Ideas |
+| ------------- | ------------ | ------------- |
+| Sophisticated	| Slides are in PechaKucha format made with Sozi is well designed and presented (advance automatically) (4-5 pts)|  |
+| Competent	    | Slides in correct PechaKucha format or may not be authored with Sozi or designed could be improved and/or and presentation can be improved (may not advance automatically) (2-3 pts) |  |
+| Needs work	  | Slides not in correct PechaKucha format or not authored with Sozi or not weel designed or not well presented (not advancing automatically) (2-3 pts) |  |
 
 
 ## Homework Guidelines
