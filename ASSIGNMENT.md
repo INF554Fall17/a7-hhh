@@ -1,7 +1,7 @@
 # INF 554 Assignment 7
 
 ## Description 
-Assignment 7. Create a presentation with [Sozi](http://sozi.baierouge.fr) to pitch your project to the class. Pitch the projects using the [PechaKucha](http://www.pechakucha.org) presentation format. PechaKucha is a simple presentation format where you show 20 images, each for 20 seconds. The images advance automatically and you talk along to the images. You cannot use bullets in any of your slides. On the first slide include the title, your group and your names.
+Assignment 7. Create a presentation with [Sozi](http://sozi.baierouge.fr) to pitch your project to the class. Pitch the projects using the [PechaKucha](http://www.pechakucha.org) presentation format. PechaKucha is a simple presentation format where you show 20 images, each for 20 seconds. The images advance automatically and you talk along to the images. You cannot use bullets in any of your slides. On the first slide include the project title, your group and your names. Export your presentation to PDF and add it to the repository.
 
 __What to include in your project pitch?__
 
@@ -22,13 +22,15 @@ __What to include in your project pitch?__
 
 ## Rubric
 
-| 	            | Presentation | Project Ideas |
-| ------------- | ------------ | ------------- |
-| Sophisticated	| Slides are in PechaKucha format made with Sozi is well designed and presented (advance automatically) (4-5 pts)|  |
-| Competent	    | Slides in correct PechaKucha format or may not be authored with Sozi or designed could be improved and/or and presentation can be improved (may not advance automatically) (2-3 pts) |  |
-| Needs work	  | Slides not in correct PechaKucha format or not authored with Sozi or not weel designed or not well presented (not advancing automatically) (2-3 pts) |  |
-
+| 	            | Presentation | Project Ideas | Development |
+| ------------- | ------------ | ------------- | ----------- |
+| Sophisticated	| Slides are in PechaKucha format made using Sozi, are well designed and presented (4-5 pts)| Project audiance, topic, originality, previous and relate work, dataset, design, development plan are clearly presented and understood | Multiple commits show good use of GIT, slide automation works well, a PDF of the slides is provided |
+| Competent	    | Slides PechaKucha format may be improved, Sozi authoring may be improved, design and presentation could be improved, not working well (2-3 pts) | Project audiance, topic, originality, previous and relate work, dataset, design, development not fully and clearly presented and understood | Use of GIT, slide automation, and PDF export could be improved |
+| Needs work	  | Slides not in correct PechaKucha format or not authored with Sozi or not weel designed or not well presented (not advancing automatically) (2-3 pts) | Project audiance, topic, originality, previous and relate work, dataset, design, development not fully and clearly presented and understood | Use of GIT not satisfactory, slide automation not implementd, PDF not provided |
 
 ## Homework Guidelines
-- Homework repository must be updated before the start of the next course. 
-- Homework is expected to work in: SAFARI AND CHROME (Mac), IE AND CHROME (Windows).
+- Homework repository must be updated before the start of next class
+- Commits after the submission deadline will not be considered unless requested
+- Late policy: 10% of total available points per each 24-hour late; duration less than 24 hours counts as a 24-hour period
+- Homework is expected to work in: SAFARI AND CHROME (Mac), Edge AND CHROME (Windows)
+
