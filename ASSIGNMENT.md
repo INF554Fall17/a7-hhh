@@ -1,9 +1,9 @@
 # INF 554 Assignment 7
 
 ## Description 
-Create a presentation with [Sozi](http://sozi.baierouge.fr) to pitch your project to the class. Pitch the projects using the [PechaKucha](http://www.pechakucha.org) presentation format. PechaKucha is a simple presentation format where you show 20 images, each for 20 seconds. The images advance automatically and you talk along with the images. You cannot use bullets in any of your slides. On the first slide, include the project title, your group, and your names. Export your presentation as `a7-groupname.pdf` and add it to the repository.
+Create a presentation with [Sozi](http://sozi.baierouge.fr) to pitch your project to the class. Pitch the projects using the [PechaKucha](http://www.pechakucha.org) presentation format. PechaKucha is a simple presentation format where you show 20 images, each for 20 seconds. The images advance automatically and you talk along with the images. You cannot use bullet list in any of your slides. On the first slide, include the project title, your group, and your names. Export your presentation as `a7-groupname.pdf` and add it to the repository.
 
-__What to include in your project pitch?__
+__What to include in your project pitch?__ (in no particular order)
 
 - Speak simply (use simple words and simple sentence construct)
 - Lead with 10 words on why you chose this project
@@ -24,7 +24,7 @@ __What to include in your project pitch?__
 
 __GIT good practice__
 
-To demonstrate good practice of GIT, do **not** commit your files to GIT after you are done with the whole presentation. Commit in a small chunk of work. For example, start with an outline and then commit, work on a few slides and then commit, make some changes and then commit.
+To demonstrate good practice of GIT, do **not** commit your files to GIT after you are done with the whole presentation. Commit in a small chunk of work. For example, start with an outline and then commit, work on a few slides and then commit, make some changes and then commit, etc.
 
 ## Rubric
 
