@@ -1,5 +1,11 @@
 # INF 554 Assignment 7
 
+Chun Lin <lin819@usc.edu>
+
+Haoyu Jiang <haoyujia@usc.edu>
+
+Hang Su <hsu271@usc.edu>
+
 ## Contents
 
 1. Team introduction
